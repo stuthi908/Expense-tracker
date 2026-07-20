@@ -13,7 +13,7 @@ A clean, responsive, and user-friendly web application for tracking personal fin
 
 ## Live Demo
 
-https://github.com/stuthi908/Expense-tracker
+https://stuthi908.github.io/Expense-tracker/
 
 ## 🛠️ Technologies Used
 
